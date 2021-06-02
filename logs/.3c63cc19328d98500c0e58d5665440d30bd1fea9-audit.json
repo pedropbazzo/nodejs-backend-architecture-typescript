@@ -1,0 +1,14 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/Users/pedropbazzo/Downloads/nodejs-backend-architecture-typescript/logs/.3c63cc19328d98500c0e58d5665440d30bd1fea9-audit.json",
+    "files": [
+        {
+            "date": 1622627102565,
+            "name": "/Users/pedropbazzo/Downloads/nodejs-backend-architecture-typescript/logs/2021-06-02.log",
+            "hash": "d2c75886b34f4bab5578182141e5158b"
+        }
+    ]
+}
